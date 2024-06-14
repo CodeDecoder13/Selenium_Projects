@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\Selenium_Test\\Selenium_Test.csproj": {}
+    "c:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\selenium_test\\Selenium_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\Selenium_Test\\Selenium_Test.csproj": {
+    "c:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\selenium_test\\Selenium_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\Selenium_Test\\Selenium_Test.csproj",
+        "projectUniqueName": "c:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\selenium_test\\Selenium_Test.csproj",
         "projectName": "Selenium_Test",
-        "projectPath": "C:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\Selenium_Test\\Selenium_Test.csproj",
+        "projectPath": "c:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\selenium_test\\Selenium_Test.csproj",
         "packagesPath": "C:\\Users\\Test-101\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\Selenium_Test\\obj\\",
+        "outputPath": "c:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\selenium_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Test-101\\AppData\\Roaming\\NuGet\\NuGet.Config",
