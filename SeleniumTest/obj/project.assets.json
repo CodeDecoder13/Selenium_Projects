@@ -2065,11 +2065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Test-101\\source\\repos\\SeleniumTest\\SeleniumTest\\SeleniumTest.csproj",
+      "projectUniqueName": "c:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\SeleniumTest\\SeleniumTest.csproj",
       "projectName": "SeleniumTest",
-      "projectPath": "C:\\Users\\Test-101\\source\\repos\\SeleniumTest\\SeleniumTest\\SeleniumTest.csproj",
+      "projectPath": "c:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\SeleniumTest\\SeleniumTest.csproj",
       "packagesPath": "C:\\Users\\Test-101\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Test-101\\source\\repos\\SeleniumTest\\SeleniumTest\\obj\\",
+      "outputPath": "c:\\Users\\Test-101\\Documents\\GitHub\\Selenium_Projects\\SeleniumTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Test-101\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SeleniumTest
-build_property.ProjectDir = C:\Users\Test-101\source\repos\SeleniumTest\SeleniumTest\
+build_property.ProjectDir = C:\Users\Test-101\Documents\GitHub\Selenium_Projects\SeleniumTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
