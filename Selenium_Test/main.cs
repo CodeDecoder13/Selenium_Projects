@@ -5,6 +5,7 @@ using OpenQA.Selenium.Edge;
 using NUnit.Framework;
 using OpenQA.Selenium.Support.UI;
 using OpenQA.Selenium.Internal;
+using AventStack.ExtentReports;
 
 namespace Selenium_Test;
 [TestFixture]
@@ -48,6 +49,15 @@ public class FormsFillUp
             Console.WriteLine("login success");
         }
         
+            //To take screenshot
+        Screenshot file = ((ITakesScreenshot)driver).GetScreenshot();
+
+        //To save screenshot
+        file.SaveAsFile(parentDirName + "\\Screenshots\\" + SSName + ".png", ScreenshotImageFormat.Png);
+
+        //To log screenshot
+        testlog.Info("Details", MediaEntityBuilder.CreateScreenCaptureFromPath( "\\Screenshots\\" + SSName + ".png").Build());
+
         var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(60)); 
         driver.Quit();
     
