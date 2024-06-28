@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SeleniumTest": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
